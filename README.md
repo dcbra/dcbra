@@ -15,7 +15,7 @@ Most of my work is private and runs real operations:
 - **Brazilian electronic invoice (NF-e) issuer**: used to issue real invoices.
 - **[eleicoes-2026](https://github.com/dcbra/eleicoes-2026)** (public): live tally and
   forecast for Brazil's 2026 presidential election. With 60–90% of votes counted, the
-  model had an average error of 0.1 percentage points on the final margin.
+  model had an error of about 0.1 percentage points (RMSE) on the final margin.
 
 ### How I work
 Specs before code · cross-review between different AI models · end-to-end tests · Git

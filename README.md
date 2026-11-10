@@ -1,6 +1,6 @@
 ## Diego Alencar Cavalcante
 
-Operations, team & sales management · Automotive imports and services · Process automation with AI
+Operations, team & sales management · Automotive imports and services · Process automation with AI  
 Brasília, Brazil · [dacav.dev](https://dacav.dev) · [LinkedIn](https://www.linkedin.com/in/dacav)
 
 For 15 years I have run my own businesses in the automotive market. Since 2023 I have been building

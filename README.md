@@ -11,7 +11,7 @@ where it saves time.
 Most of my work is private and runs real operations:
 
 - **Sales and operations:** an online store open to the public and in production, Brazilian electronic
-  invoicing (NF-e) and automated shipping preparation. Time per order dropped from about 60 to 15–20 minutes.
+  invoicing (NF-e) and automated shipping preparation. Automation cut the time per order by up to 75%.
 - **Business management:** client service, sales and daily routines in one place, with AI to speed up
   tasks. One platform is in pilot use at a law firm.
 - **Services and teams:** scheduling, in-house staff and subcontractors, and payments for service
